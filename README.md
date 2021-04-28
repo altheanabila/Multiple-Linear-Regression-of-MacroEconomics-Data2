@@ -25,7 +25,7 @@ I try to find out the correlation between Economic growth of Germany towards som
 `lm_multi = sn.OLS(y_multi, X_multi_cons).fit()`
 `lm_multi.summary()`
 
-![Testimage1](https://github.com/altheanabila/Multiple-Linear-Regression-of-MacroEconomics-Data/blob/main/Macroecon4.png)
+![Testimage1](https://github.com/altheanabila/Multiple-Linear-Regression-of-MacroEconomics-Data2/blob/main/Macroecon4.png)
 
 
 6. Visualize the graph in 3D graph
