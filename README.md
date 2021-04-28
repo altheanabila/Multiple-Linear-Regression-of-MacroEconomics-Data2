@@ -21,7 +21,7 @@ I try to find out the correlation between Economic growth of Germany towards som
 ![Testimage1](https://github.com/altheanabila/Multiple-Linear-Regression-of-MacroEconomics-Data2/blob/main/Macroecon3.png)
 
 
-5. Run this code to get the result of OLS. We can see that only variable Import that is statistically significant. The R squared presents weak correlation by only 32,1%.
+5. Run this code to get the result of OLS. We can see that only variable Tariff rates that is statistically significant. The R squared presents strong correlation by 70,4%.
 `lm_multi = sn.OLS(y_multi, X_multi_cons).fit()`
 `lm_multi.summary()`
 
